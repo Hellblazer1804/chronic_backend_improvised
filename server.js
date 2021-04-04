@@ -23,7 +23,7 @@ connection.once('open', () => {
     var gfs = gridfs(connection.db);
 
     app.get('/', (req, res) => {
-        res.send('Download/Upload GridFS files to MongoDB');
+        res.send('Download data from Chronic database');
     });
     app.get('/api/file/upload', (req, res) => {
 		
