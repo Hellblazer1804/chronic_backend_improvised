@@ -6,6 +6,8 @@ First Clone repo
 
 cd chronic_backend_improvised
 
+Create a folder named uploads
+
 npm install
 
 npm start
