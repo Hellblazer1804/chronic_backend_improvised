@@ -1,5 +1,11 @@
 # Chronic Backend - Allows to upload/download files
+
 ## Steps to start server:
+
+First Clone repo
+
+cd chronic_backend_improvised
+
 npm install
 
 npm start
