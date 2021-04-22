@@ -2,15 +2,15 @@
 
 ## Steps to start server:
 
-First Clone repo
+Clone this repository, then run the following commands:
 
-cd chronic_backend_improvised
+`cd chronic_backend_improvised`
 
-Create a folder named uploads
+`mkdir uploads`
 
-npm install
+`npm install` 
 
-npm start
+`npm start`
 
 ## API calls:
 
